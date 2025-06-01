@@ -1,5 +1,6 @@
 # 💫 About Me:
-# Salut, je suis Victor 👋<br>Développeur web React & Symfony<br>Passionné par la création d'applications web performantes et innovantes.<br>Étudiant le Web3, blockchain et cybersécurité, avec une vision d'un internet plus décentralisé et sécurisé.<br><br>🌱 En dehors du code, je suis un fan de manga et de lecture (tech, dev perso).<br>💡 Citation favorite : "Hacker les limites, sécuriser les données, repenser le web — pour un internet où la liberté numérique n'est plus une exception, mais une évolution."
+# Salut, je suis Victor 👋
+Développeur web React & Symfony<br>Passionné par la création d'applications web performantes et innovantes.<br>Étudiant le Web3, blockchain et cybersécurité, avec une vision d'un internet plus décentralisé et sécurisé.<br><br>🌱 En dehors du code, je suis un fan de manga et de lecture (tech, dev perso).<br>💡 Citation favorite : "Hacker les limites, sécuriser les données, repenser le web — pour un internet où la liberté numérique n'est plus une exception, mais une évolution."
 
 
 ## 🌐 Socials:
